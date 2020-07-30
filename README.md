@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I am David
+
+- I am currently working on: cs50, covid19dataanalysis
+- I am currently learning: Python, TS, Go
+- Ask me about: Linux 🐧, anything you want to ask me I guess?
+- How to reach me: Well there is my Twitter which is on my GitHub profile (I never use it), or you can contact me on Telegram (same as GitHub name)
+- Pronouns: he/him, they/them, I really don't mind how you refer to me :)
+- Fun fact: Trans rights are human rights (I am not trans btw)
 
 <!--
 **dps910/dps910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
