@@ -2,7 +2,7 @@
 
 - I am currently working on: not a lot tbh
 - I am currently learning: Python, TS, Go, C++
-- Ask me about: anything you want to ask me I guess?
+- Ask me about: anything you want to ask!
 - How to reach me: Contact me on Discord: davidd#7551 or Telegram: @daviddps. I mostly use Discord.
 - Pronouns: he/him, they/them, I really don't mind how you refer to me :)
 
