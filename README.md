@@ -1,10 +1,9 @@
 ### Hi there 👋 I am David
 
-- I am currently working on: not a lot tbh
-- I am currently learning: Python, TS, Go, C++
-- Ask me about: anything you want to ask!
-- How to reach me: Contact me on Discord: davidd#7551 or Telegram: @daviddps. I mostly use Discord.
-- Pronouns: he/him, they/them, I really don't mind how you refer to me :)
+- 🔭 I’m currently working on: something
+- 🌱 I’m currently learning: C# (I will change this depending on what I am learning at the time.)
+- 📫 How to reach me: Contact me on Discord: dav1d#0001
+- 🤔 I’m looking for help with: programming lmao
 
 <!--
 **dps910/dps910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
