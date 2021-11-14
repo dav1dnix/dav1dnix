@@ -1,5 +1,5 @@
 ### Hi there 👋 I am David
-I don't program much, I mainly maintain a repository for Hackintosh and I will upload scripts [here](https://gist.github.com/dav1dnix] sometimes.
+I don't program much, I mainly maintain a repository for Hackintosh and I will upload scripts [here](https://gist.github.com/dav1dnix) sometimes.
 
 If you're chill or have any questions, you can find me on [Telegram](https://t.me/david_priv) and [Twitter](https://twitter.com/dav1d_nix).
 
