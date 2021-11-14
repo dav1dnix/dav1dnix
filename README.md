@@ -1,9 +1,7 @@
 ### Hi there 👋 I am David
+I don't program much, I mainly maintain a repository for Hackintosh and I will upload scripts [here](https://gist.github.com/dav1dnix] sometimes.
 
-- 🔭 I’m currently working on: something
-- 🌱 I’m currently learning: C# (I will change this depending on what I am learning at the time.)
-- 📫 How to reach me: Contact me on Discord: dav1d#0001
-- 🤔 I’m looking for help with: programming lmao
+If you're chill or have any questions, you can find me on [Telegram](https://t.me/david_priv) and [Twitter](https://twitter.com/dav1d_nix).
 
 <!--
 **dps910/dps910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
